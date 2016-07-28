@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["InputHandle","Handle to an operator's input stream."],["OutputHandle","Handle to an operator's output stream."]]});
